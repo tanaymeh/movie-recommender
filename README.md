@@ -1,4 +1,6 @@
 # Movie Recommendation System using Stacked AutoEncoders in PyTorch
+![Stacked Autoencoder](https://miro.medium.com/max/2164/1*44eDEuZBEsmG_TCAKRI3Kw@2x.png, "Image for representation purpose only")
+
 Movie Recommendation system made using Stacked AutoEncoders. This SAE is trained on local machine on 100K values dataset due to low available computation power. Training on 1 Million values dataset is more desirable on Cloud VMs / Azure Notebooks / Google Colab / Kaggle Kernels.
 Other Details on internal working and code explanation is provided in the respective cells in the notebook.
 Code exports in form of Python (.py), HTML (.html) and LaTeX (.tex) files in the [exports/](https://github.com/heytanay/movie-recommender/tree/master/exports) folder.
